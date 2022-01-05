@@ -1,0 +1,36 @@
+
+section{
+    display: flex;
+    background-color: rgba(70, 68, 68, 0.24);
+    margin: 0%;
+}
+.first{
+    width: 50%;
+    padding-left: 5%;
+    font-family: 'Poppins', sans-serif;
+}
+.first img{
+    width: 40%;
+    padding-left: 8%;
+    padding-top: 10%;
+}
+span{
+    color: orangered;
+}
+.button{
+    text-decoration: none;
+    background-color: rgb(13, 211, 152);
+    border: 2px solid rgba(80, 190, 157, 0.527) ;
+    padding: 10px 20px;
+    border-radius: 5px;
+    color: white;
+    font-family: 'Poppins', sans-serif;
+}
+.border-left{
+    border-left: 2px solid orangered;
+    
+}
+h1{
+    padding-left: 5px;
+    font-family: 'Teko', sans-serif;
+}
