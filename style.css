@@ -1,6 +1,6 @@
 
 body{
-    
+    margin:0px auto;
 }
 section{
     display: flex;
@@ -73,6 +73,7 @@ h1{
 }
 .coding-pic img{
 width: 300px;
+padding-top: 50px;
 margin-left: 55px;
 }
 .sec3{
@@ -115,4 +116,13 @@ margin-left: 55px;
 .pro-pic img{
     width: 300px;
     margin-right: 150px;
+}
+.corona{
+    text-align: center;
+    text-decoration: underline;
+}
+footer{
+    background-color: rgb(18, 20, 20);
+    text-align: center;
+    color: white;
 }
